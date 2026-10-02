@@ -11,9 +11,9 @@ export const Navbar = () => {
         <li className="nav-item">
           <button aria-expanded="false">Apps</button>
           <ul className="sub-menu" aria-label="Apps">
-            <li><a href="#"></a></li>
-            <li><a href="#"></a></li>
-            <li><a href="#"></a></li>
+            <li><a href="#">Email</a></li>
+            <li><a href="#">Calendar</a></li>
+            <li><a href="#">Tables</a></li>
           </ul>
         </li>
       </ul>
